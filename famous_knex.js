@@ -33,3 +33,4 @@ knex.select('*')
 });
 
 
+knex.destroy();
